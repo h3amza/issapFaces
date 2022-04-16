@@ -1,0 +1,231 @@
+astronautID,name,otherNames,country,agency,gender
+14,Aleksey Ovchinin,Alexey Ovchinin,RUS,RSA,Male
+13,Mark Vande Hei,,USA,NASA,Male
+12,Norishige Kanai,,JAP,JAXA,Male
+11,Scott Tingle,,USA,NASA,Male
+10,Sergei Prokopyev,Sergey Prokopyev|Sergei Prokopev|Sergey Prokopev,RUS,RSA,Male
+9,Serena Auñon-Chancellor,Serena Aunon-Chancellor|Serena Au√±√≥n-Chancellor|Serena Au√±on-Chancellor,USA,NASA,Female
+8,David Saint-Jacques,David Saint Jacques|David Saint-Jaques,CAN,CSA,Male
+7,Anne McClain,,USA,NASA,Female
+5,Nick Hague,,USA,NASA,Male
+4,Christina Koch,,USA,NASA,Female
+2,Jessica Meir,,USA,NASA,Female
+3,Andrew Morgan,Drew Morgan,USA,NASA,Male
+1,Ivan Vagner,,RUS,RSA,Male
+32,James Voss,James S. Voss,USA,NASA,Male
+59,John Phillips,John L. Phillips,USA,NASA,Male
+208,Janet Kavandi,Janet L. Kavandi,USA,NASA,Female
+272,Michael Foale,,USA,NASA,Male
+365,Robert Kimbrough,Shane Kimbrough,USA,NASA,Male
+381,Douglas Wheelock,Douglas H. Wheelock|Doug Wheelock,USA,NASA,Male
+560,Anatoli Ivanishin,Anatoly Ivanishin,RUS,RSA,Male
+623,Kent Rominger,Kent V. Rominger,USA,NASA,Male
+638,Leland Melvin,Leland D. Melvin,USA,NASA,Male
+731,David Wolf,Dave Wolf|David A. Wolf,USA,NASA,Male
+746,Yuri Usachev,Yury Usachev|Yury Usachov|Yury V. Usachev,RUS,RSA,Male
+874,Paul Lockhart,Paul S. Lockhart,USA,NASA,Male
+886,Paolo Nespoli,,ITA,ESA,Male
+913,Aleksandr Skvortsov,Alexander Skvortsov,USA,NASA,Male
+929,Thomas Pesquet,Thomas Pesquest,FRA,ESA,Male
+939,Dafydd Williams,Dave Williams,CAN,CSA,Male
+951,Clayton Anderson,Clay Anderson|Clayton C. Anderson,USA,NASA,Male
+968,Daniel Barry,Daniel T. Barry,USA,NASA,Male
+984,James Dutton,James P. Dutton|James P. Dutton Jr.|James Dutton Jr.,USA,NASA,Male
+992,Nicholas Patrick,Nicholas J. M. Patrick,USA,NASA,Male
+1018,Talgat Musabayev,,KAZ,RSA,Male
+1129,Michael Barratt,Mike Barratt,USA,NASA,Male
+1188,Timothy Kopra,Tim Kopra,USA,NASA,Male
+1281,Rex Walheim,Rex J. Walheim,USA,NASA,Male
+1295,So-Yeon Yi,Yi So-Yeon,KOR,KAP,Female
+1313,Piers Sellers,Piers J. Sellers,USA,NASA,Male
+1397,George Zamka,George D. Zamka,USA,NASA,Male
+1442,Anousheh Ansari,,USA,None,Female
+1467,Franklin Chang-Diaz,Franklin Chang Díaz|Franklin R. Chang-Diaz,USA,NASA,Male
+1503,Ellen Ochoa,,USA,NASA,Female
+1581,Sergei Volkov,Sergey Volkov,RUS,RSA,Male
+1619,Sergei Treshchev,Sergei Treshchov|Sergei Y. Treschev|Sergei Treschev,RUS,RSA,Male
+1621,Garrett Reisman,,USA,NASA,Male
+1646,Carlos Noriega,,USA,NASA,Male
+1658,Joseph Acaba,Joe Acaba|Joseph M. Acaba,USA,NASA,Male
+1821,Takuya Onishi,,JAP,JAXA,Male
+1940,Oleg Kotov,Oleg V. Kotov,RUS,RSA,Male
+1996,Stanley Love,,USA,NASA,Male
+2102,William Oefelein,Bill Oefelein|William A. (Bill) Oefelein,USA,NASA,Male
+2247,Pedro Duque,,ESP,ESA,Male
+2262,Daniel Tani,Daniel M. Tani,USA,NASA,Male
+2353,Kevin Ford,Kevin A. Ford,USA,NASA,Male
+2372,Robert Thirsk,,CAN,CSA,Male
+2451,Mark Polansky,Mark L. Polansky,USA,NASA,Male
+2467,James Weatherbee,James Wetherbee|James D. Wetherbee,USA,NASA,Male
+2477,Vladimir Dezhurov,Vladimir N. Dezhurov,RUS,RSA,Male
+2557,Lisa Nowak,Lisa M. Nowak,USA,NASA,Female
+2700,James Kelly,James M. Kelly,USA,NASA,Male
+2729,Linda Godwin,Linda M. Godwin,USA,NASA,Female
+2754,Steven Swanson,Steve Swanson,USA,NASA,Male
+2791,Sergei Krikalev,Sergei K. Krikalev,RUS,RSA,Male
+2819,Sunita Williams,Sunita L. Williams,USA,NASA,Female
+2821,Gregory Chamitoff,Greg Chamitoff,USA,NASA,Male
+2837,Timothy Peake,Tim Peake,GBR,ESA,Male
+2883,Nicole Stott,,USA,NASA,Female
+3003,Roman Romanenko,,RUS,RSA,Male
+3048,Peggy Whitson,Peggy A. Whitson,USA,NASA,Female
+3124,Scott Kelly,,USA,NASA,Male
+3160,Kathryn Hire,,USA,NASA,Female
+3185,Yelena Serova,Elena Serova,RUS,RSA,Female
+3264,John Herrington,John B. Herrington,USA,NASA,Male
+3340,Brent Jett,Brent W. Jett Jr.,USA,NASA,Male
+3378,Thomas Jones,Thomas D. Jones,USA,NASA,Male
+3463,Maksim Surayev,Maxim Suraev,RUS,RSA,Male
+3470,Christer Fugelsang,Christer Fuglesang,SWE,ESA,Male
+3471,Sergei Zalyotin,,RUS,RSA,Male
+3644,Michael Gernhardt,Michael L. Gernhardt,USA,NASA,Male
+3695,Andrew Thomas,Andy Thomas|Andrew S. W. Thomas,USA,NASA,Male
+3709,Robert Benkhen,Robert Behnken|Bob Behnken|Robert L. Behnken,USA,NASA,Male
+3730,Dorothy Metcalf-Lindenburg,Dorothy Metcalf-Lindenburger,USA,NASA,Female
+3794,Catherine Coleman,Cady Coleman,USA,NASA,Female
+3834,Mikhail Tyurin,,RUS,RSA,Male
+3837,Thomas Reiter,,GER,ESA,Male
+3857,Karen Nyberg,Karen L. Nyberg,USA,NASA,Female
+3942,Andreas Mogensen,TMA-18M,DEN,ESA,Male
+4040,Oleg Novitskiy,Oleg Noavitskiy,RUS,RSA,Male
+4135,Kenneth Ham,Ken Ham,USA,NASA,Male
+4186,Akihiko Hoshide,Aki Hoshide,JAP,JAXA,Male
+4365,Charles Hobaugh,Charlie Hobaugh|Charles O. Hobaugh,USA,NASA,Male
+4385,Stephanie Wilson,Stephanie D. Wilson,USA,NASA,Female
+4412,Heidemarie Stefanyshyn-Piper,Heidemarie M. Stefanyshyn-Piper,USA,NASA,Female
+4415,Valery Korzun,Valery G. Korzun,RUS,RSA,Male
+4432,Michael López-Alegría,Michael Lopez-Alegria|Michael A. Lopez-Alegria,USA,NASA,Male
+4473,Dominic Pudwill Gorie,Dominic L. Pudwill Gorie|Dominic Gorie,USA,NASA,Male
+4514,Takao Doi,,JAP,JAXA,Male
+4586,Julie Payette,,CAN,CSA,Female
+4590,Stephen Robinson,Stephen K. Robinson,USA,NASA,Male
+4596,Alexander Gerst,,GER,ESA,Male
+4603,Naoko Yamazaki,,JAP,JAXA,Female
+4647,Yuri Shargin,,RUS,RSA,Male
+4730,Hans Schlegel,,GER,ESA,Male
+4790,Yuri Malenchenko,Yuri I. Malenchenko,RUS,RSA,Male
+5014,Roberto Vittori,,ITA,ESA,Male
+5018,Christopher Cassidy,Chris Cassidy,USA,NASA,Male
+5101,Daniel Bursch,Daniel W. Bursch,USA,NASA,Male
+5214,Randolph Bresnik,Randy Bresnik,USA,NASA,Male
+5295,Ronald Garan,Ron Garan|Ronald J. Garan Jr.,USA,NASA,Male
+5302,Nikolai Budarin,Nikolai M. Budarin,RUS,RSA,Male
+5344,Stephen Bowen,Steve Bowen,USA,NASA,Male
+5356,Donald Pettit,Donald R. Pettit|Don Pettit,USA,NASA,Male
+5420,Thomas Marshburn,Tom Marshburn,USA,NASA,Male
+5435,Gregory Wiseman,Reid Wiseman|Gregory R. Wiseman,USA,NASA,Male
+5444,Michael Foreman,Mike Foreman,USA,NASA,Male
+5456,Douglas Hurley,Douglas G. Hurley|Doug Hurley,USA,NASA,Male
+5476,Ed Lu,Edward Lu,USA,NASA,Male
+5531,William Shepherd,William M. Shepherd,USA,NASA,Male
+5532,Andrew Feustel,Drew Feustel|Andrew J. Feustel|Drew Feustal|Drew Fuestel,USA,NASA,Male
+5575,Gregory Johnson,Gregory H. Johnson|Greg Johnson|Greg H. Johnson,USA,NASA,Male
+5634,Anton Shkaplerov,,RUS,RSA,Male
+5651,Joan Higginbotham,Joan E. Higginbotham,USA,NASA,Female
+5700,Steven Lindsey,Steven W. Lindsey|Steve Lindsey,USA,NASA,Male
+5819,Barry Wilmore,Barry E. Wilmore|Barry Butch Wilmore,USA,NASA,Male
+5856,Robert Curbeam,Robert L. Curbeam|Robert Curbeam Jr.,USA,NASA,Male
+5857,Guy Laliberté,Guy Laliberte,CAN,None,Male
+5863,Yuri Gidzenko,,RUS,RSA,Male
+5864,William McArthur,William S. McArthur|William McArthur Jr.,USA,NASA,Male
+6016,Pavel Vinogradov,Pavel V. Vinogradov,RUS,RSA,Male
+6020,Richard Linnehan,Rick Linnehan,USA,NASA,Male
+6029,Michael Hopkins,Mike Hopkins,USA,NASA,Male
+6047,Kimiya Yui,,JAP,JAXA,Male
+6263,Yuri Onufrienko,Yury I. Onufrienko|Yuri I. Onufrienko|Yury Onufrienko,RUS,RSA,Male
+6384,Jeffrey Williams,Jeffrey N. Williams|Jeff Williams,USA,NASA,Male
+6391,Christopher Ferguson,Christopher J. Ferguson|Chris Ferguson,USA,NASA,Male
+6434,Kathleen Rubins,Kate Rubins|Kate Rubens,USA,NASA,Female
+6492,Robert Satcher,Robert L. Satcher Jr.|Robert Satcher Jr.,USA,NASA,Male
+6557,Alexander Misurkin,,RUS,RSA,Male
+6570,Gennady Padalka,Gennady I. Padalka|Padalka Gennady,RUS,RSA,Male
+6738,Michael Good,,USA,NASA,Male
+6778,Salizhan Sharipov,Salizhan S. Sharipov,RUS,RSA,Male
+6806,Evgeny Tarelkin,,RUS,RSA,Male
+6807,Marcos Pontes,Marcos C. Pones|Marcos C. Pontes,BRA,AEB,Male
+6811,Chris Hadfield,Chris A. Hadfield,CAN,CSA,Male
+6912,Dominic Antonelli,Dominic A. Antonelli|Tony Antonelli,USA,NASA,Male
+7016,Eric Boe,,USA,NASA,Male
+7042,Samantha Cristoforetti,Samantha Cristoferretti,ITA,ESA,Female
+7059,Benjamin Drew,Alvin Drew,USA,NASA,Male
+7060,Fyodor Yurchikin,Fyodor Yurchikhin|Fyodor N. Yurchikhin,RUS,RSA,Male
+7083,Sergei Ryazanskiy,Sergey Ryazanskiy|Sergey Ryazansky,RUS,RSA,Male
+7084,Marc Garneau,,CAN,CSA,Male
+7109,Marsha Ivins,Marsha S. Ivins,USA,NASA,Female
+7269,Pamela Melroy,Pamela A. Melroy,USA,NASA,Female
+7298,Sergei Revin,,RUS,RSA,Male
+7306,Satoshi Furikawa,Satoshi Furukawa,JAP,JAXA,Male
+7384,Eileen Collins,Eileen M. Collins,USA,NASA,Female
+7546,Aleksandr Samokutyayev,Alexander Samokutyaev|Alexander Samoukutyaev,RUS,RSA,Male
+7628,Richard Arnold,Ricky Arnold,USA,NASA,Male
+7631,Frederick Sturckow,Rick Sturckow|Frederick W. (Rick) Sturckow,USA,NASA,Male
+7680,Leroy Chiao,,USA,NASA,Male
+7741,Sandra Magnus,Sandra H. Magnus|Sandy Magnus,USA,NASA,Female
+7784,Mark Kelly,Mark E. Kelly,USA,NASA,Male
+7788,Michael Fossum,Mike Fossum|Michael E. Fossum,USA,NASA,Male
+7842,Yuri Baturin,,RUS,RSA,Male
+7890,Dmitri Kondratyev,Dmitry Kondratyev,RUS,RSA,Male
+7904,Kenneth Bowersox,Kenneth D. Bowersox|Ken Bowersox,USA,NASA,Male
+7914,Stephen Frick,Steve Frick|Stephen N. Frick,USA,NASA,Male
+7961,Patrick Forrester,Patrick G. Forrester,USA,NASA,Male
+7993,Richard Mastracchio,Rick Mastracchio,USA,NASA,Male
+8097,Timothy Creamer,T.J. Creamer,USA,NASA,Male
+8106,Wendy Lawrence,Wendy B. Lawrence,USA,NASA,Female
+8147,John Olivas,John D. Olivas|John Danny Olivas|John &quot;Danny&quot; Olivas,USA,NASA,Male
+8208,Kjell Lindgren,Kjell N. Lindgren,USA,NASA,Male
+8247,James Reilly,Jim Reilly|James F. Reilly,USA,NASA,Male
+8254,Frank De Winne,Frank DeWinne,BEL,ESA,Male
+8333,Jack Fischer,Jack Fish Fischer,USA,NASA,Male
+8339,André Kuipers,Andre Kuipers,NED,ESA,Male
+8346,Gregory Olsen,Greg Olsen,USA,None,Male
+8382,Koichi Wakata,,JAP,JAXA,Male
+8390,Frank Culbertson,Frank L. Culbertson|Frank L. Culbertson Jr.,USA,NASA,Male
+8413,Shannon Walker,,USA,NASA,Female
+8448,Joseph Tanner,Joseph R. Tanner,USA,NASA,Male
+8537,Susan Helms,Susan J. Helms,USA,NASA,Female
+8615,Charles Simonyi,,USA,None,Male
+8617,Valeri Tokarev,Valery Tokarev|Valery I. Tokarev,RUS,RSA,Male
+8618,Michael Bloomfield,Michael J. Bloomfield,USA,NASA,Male
+8638,Terry Virts,Terry W. Virts,USA,NASA,Male
+8687,Aleksandr Kaleri,Alexander Kaleri|Alexander Y. Kaleri,RUS,RSA,Male
+8738,Alan Poindexter,Alan G. Poindexter,USA,NASA,Male
+8760,Daniel Burbank,Daniel C. Burbank|Dan Burbank,USA,NASA,Male
+8814,Scott Horowitz,Scott J. Horowitz,USA,NASA,Male
+8839,Aidyn Aimbetov,TMA-18M,KAZ,KAC,Male
+8844,Lee Archambault,,USA,NASA,Male
+8872,Paul Richards,,USA,NASA,Male
+8933,Oleg Skripochka,,RUS,RSA,Male
+8984,Lee Morin,Lee M. E. Morin,USA,NASA,Male
+8996,Andrei Borisenko,Andrey Borisenko,RUS,RSA,Male
+9089,Richard Garriott,,GBR,None,Male
+9090,Yuri Lonchakov,Yury Lonchakov|Yuri V. Lonchakov,RUS,RSA,Male
+9126,Scott Parazynski,Scott E. Parazynski,USA,NASA,Male
+9196,Sergei Ryzhikov,Sergey Ryzhikov|Sergey Nikolayevich Ryzhikov,RUS,RSA,Male
+9391,Tracy Caldwell Dyson,,USA,NASA,Female
+9395,Dennis Tito,,USA,None,Male
+9485,Soichi Noguchi,,JAP,JAXA,Male
+9640,Charles Camarda,Charles J. Camarda,USA,NASA,Male
+9674,Phillippe Perrin,Philippe Perrin,FRA,ESA,Male
+9719,Jerry Ross,Jerry L. Ross,USA,NASA,Male
+9737,Oleg Artemyev,,RUS,RSA,Male
+9745,Mark Shuttleworth,,RSA,None,Male
+9755,Jeffrey Ashby,Jeffrey S. Ashby,USA,NASA,Male
+9818,Steven Smith,Steven L. Smith,USA,NASA,Male
+9832,Kenneth Cockerell,Kenneth Cockrell|Kenneth D. Cockrell,USA,NASA,Male
+9878,Barbara Morgan,Barbara R. Morgan,USA,NASA,Female
+9910,Oleg Kononenko,Oleg Konenenko,RUS,RSA,Male
+9920,Luca Parmitano,,ITA,ESA,Male
+9962,Carl Walz,Carl E. Walz,USA,NASA,Male
+9982,Umberto Guidoni,,ITA,ESA,Male
+9993,Léopold Eyharts,Leopold Eyharts,FRA,ESA,Male
+592,Michael Fincke,Edward M. (Mike) Fincke|Edward Fincke,USA,NASA,Male
+2322,Sheikh Muszaphor Shukor,Sheikh Muszaphor Shukhor|Sheikh Muszaphar Shukor|Sheikh Shukor,MAL,ANGKASA,Male
+4867,Claudie Haigneré,Claudie HaignerÃ”Ã¸Î©|Claudie HaignerÔøΩ|Claudie Haignere,FRA,ESA,Female
+9341,José Hernández,José M. Hernández|Jose Hernandez,USA,NASA,Male
+9413,Konstantin Kozeyev,Konstantin Kozeev,RUS,RSA,Male
+9567,Mikhail Kornienko,,RUS,RSA,Male
+16,Viktor Afanasayev,Viktor Afanasyev|Victor Afanasyev,RUS,RSA,Male
+19,Yuri Onufrienko,Yury I. Onufrienko|Yuri I. Onufrienko|Yury Onufrienko,RUS,RSA,Male
+21,Steven MacLean,Steve MacLean|Steven G. MacLean,CAN,CSA,Male
+24,Maksim Surayev,Maxim Suraev,RUS,RSA,Male
+25,Hazza Al Mansouri,Hazzaa Ali Almansoori,UAE,None,Male
